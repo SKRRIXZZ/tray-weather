@@ -6,7 +6,7 @@ Multi-language weather app that lives in the system tray and shows the current t
 
 ## 📸 Screenshot
 
-![Main window]<img width="458" height="685" alt="screenshot-main" src="https://github.com/user-attachments/assets/abbe1f16-18d2-4416-9633-dcbed768856d" />
+![Main window](<img width="457" height="673" alt="screenshot-main" src="https://github.com/user-attachments/assets/182fd5a9-96e5-464b-a4e4-c77566c75e36" />)
 
 ---
 
