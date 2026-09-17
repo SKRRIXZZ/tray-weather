@@ -1,4 +1,4 @@
-# 🌤 Погода в трее
+<img width="459" height="678" alt="screenshot-main" src="https://github.com/user-attachments/assets/ce2ec72a-a0bb-49ed-9c18-de6b01b7c889" /># 🌤 Погода в трее
 
 Многоязычное приложение погоды, которое живёт в системном трее и показывает текущую температуру прямо на иконке. Источник данных — [MET Norway](https://api.met.no/).
 
@@ -14,6 +14,16 @@
 - 20 языков интерфейса
 - Тёмная / светлая тема
 - Автозапуск с Windows
+
+---
+## 📸 Скриншот
+
+![Главное окно]<img width="459" height="678" alt="screenshot-main" src="https://github.com/user-attachments/assets/90bdfb79-bba3-4172-bcec-5bdcaa8de597" />
+
+![Настройки]<img width="255" height="411" alt="screenshot-settings" src="https://github.com/user-attachments/assets/4e5f21e5-bc5f-4713-a39d-6f7b66674588" />
+
+![Виджет]<img width="60" height="36" alt="screenshot-widget" src="https://github.com/user-attachments/assets/009921b0-bad8-47a0-bc90-d28dfd28813d" />
+
 
 ---
 
