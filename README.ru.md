@@ -1,5 +1,3 @@
-<img width="459" height="678" alt="screenshot-main" src="https://github.com/user-attachments/assets/ce2ec72a-a0bb-49ed-9c18-de6b01b7c889" /># 🌤 Погода в трее
-
 Многоязычное приложение погоды, которое живёт в системном трее и показывает текущую температуру прямо на иконке. Источник данных — [MET Norway](https://api.met.no/).
 
 [English](README.md) | **Русский**
