@@ -17,11 +17,7 @@
 ---
 ## 📸 Скриншот
 
-![Главное окно]<img width="459" height="678" alt="screenshot-main" src="https://github.com/user-attachments/assets/90bdfb79-bba3-4172-bcec-5bdcaa8de597" />
-
-![Настройки]<img width="255" height="411" alt="screenshot-settings" src="https://github.com/user-attachments/assets/4e5f21e5-bc5f-4713-a39d-6f7b66674588" />
-
-![Виджет]<img width="60" height="36" alt="screenshot-widget" src="https://github.com/user-attachments/assets/009921b0-bad8-47a0-bc90-d28dfd28813d" />
+Главное окно<img width="459" height="678" alt="screenshot-main" src="https://github.com/user-attachments/assets/90bdfb79-bba3-4172-bcec-5bdcaa8de597" />
 
 
 ---
