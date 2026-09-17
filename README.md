@@ -6,9 +6,9 @@ Multi-language weather app that lives in the system tray and shows the current t
 
 ## 📸 Screenshot
 
-Main menu<img width="454" height="678" alt="screenshot-main" src="https://github.com/user-attachments/assets/081b36de-513a-4a5c-a7c0-8ba47c39d6ab" />
-Settings<img width="256" height="411" alt="screenshot-settings" src="https://github.com/user-attachments/assets/6416d116-f701-4e2c-bda6-8f6cca80e355" />
-Widget<img width="59" height="37" alt="screenshot-widget" src="https://github.com/user-attachments/assets/0db837e2-6436-4848-a5d2-79b61ae34153" />
+![Main window]<img width="454" height="678" alt="screenshot-main" src="https://github.com/user-attachments/assets/081b36de-513a-4a5c-a7c0-8ba47c39d6ab" />
+![Settings]<img width="256" height="411" alt="screenshot-settings" src="https://github.com/user-attachments/assets/6416d116-f701-4e2c-bda6-8f6cca80e355" />
+![Widget]<img width="59" height="37" alt="screenshot-widget" src="https://github.com/user-attachments/assets/0db837e2-6436-4848-a5d2-79b61ae34153" />
 
 
 ---
