@@ -5,12 +5,11 @@ Multi-language weather app that lives in the system tray and shows the current t
 **English** | [Русский](README.ru.md)
 
 ## 📸 Screenshot
-Main menu
-<img width="59" height="37" alt="screenshot-widget" src="https://github.com/user-attachments/assets/6701e269-d2ab-4ee2-a525-667de2dc0b20" />
-Widget
-<img width="454" height="678" alt="screenshot-main" src="https://github.com/user-attachments/assets/833c52ce-c550-4cab-bbd0-5cbc5b37a1c1" />
-Settings
-<img width="256" height="411" alt="screenshot-settings" src="https://github.com/user-attachments/assets/2a4929a2-7d22-45e9-835c-8d3187171544" />
+
+Main menu<img width="454" height="678" alt="screenshot-main" src="https://github.com/user-attachments/assets/081b36de-513a-4a5c-a7c0-8ba47c39d6ab" />
+Settings<img width="256" height="411" alt="screenshot-settings" src="https://github.com/user-attachments/assets/6416d116-f701-4e2c-bda6-8f6cca80e355" />
+Widget<img width="59" height="37" alt="screenshot-widget" src="https://github.com/user-attachments/assets/0db837e2-6436-4848-a5d2-79b61ae34153" />
+
 
 ---
 
